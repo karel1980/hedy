@@ -19,7 +19,7 @@
         example: "Bijvoorbeeld: echo dus je lievelingskleur is..."
         demo_code: "ask Wat is je lievelingskleur?\necho dus je lievelingskleur is..."
   2:
-    intro_text: "Print werkt nog zoals in Level 1, maar let op! ask werkt nu een klein beetje anders, het antwoord kun je opslaan dan dan printen. Echo heb je niet meer nodig. In Level 2 kun je ook deze commando's gebruiken:"
+    intro_text: "Print werkt nog zoals in Level 1, maar let op! ask werkt nu een klein beetje anders, het antwoord kun je opslaan en dan printen. Echo heb je niet meer nodig. In Level 2 kun je ook deze commando's gebruiken:"
     start_code: "print hallo wereld!"
     commands:
       -
